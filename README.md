@@ -10,7 +10,7 @@
 <img height:"148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
  </div>
   
-  <div style="display: inline-block"> <br>
+  <div style="display: inline_block"> <br>
     <img align: "center" width: "48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/html5/html5-original.svg">
     <img align: "center" height: "30em" width: "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align: "center" height: "30em" width: "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
