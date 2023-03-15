@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate na área de Front-End.
 
 <a href ="linkedin.com/in/erick-santos-brito/">
-<img height:"160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-<img height: "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img height:"180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" /
+<img height: "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
