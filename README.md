@@ -1,7 +1,7 @@
 ## Olá! Seja Bem Vindo(a) ao meu GitHub.<br>Me chamo Erick Santos Brito.
 
 <div>
-<p>Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo.</p>
+Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo.
 
 👨‍💻Atualmente estou trabalhando como Aprendiz (Assistente Administrativo) na Empresa Brasileira de Correios e Telégrafos. <br>
 📚Atualmente estou aprendendo HTML, CSS, Python e C#. Porém tenho conhecimento em C, MySQL e conhecimento breve de Java. <br>
