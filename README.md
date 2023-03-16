@@ -4,7 +4,7 @@
 Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo.
 
 <br>👨‍💻Atualmente estou trabalhando como Aprendiz (Assistente Administrativo) na Empresa Brasileira de Correios e Telégrafos. <br>
-📚Atualmente estou aprendendo: HTML, CSS, Python e C#.<br>Porém tenho conhecimento em C, MySQL e conhecimento breve de Java. <br>
+<br>📚Atualmente estou aprendendo: HTML, CSS, Python e C#.<br>Porém tenho conhecimento em C, MySQL e conhecimento breve de Java. <br>
 
 <div>
 <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=ericksntz"/>
