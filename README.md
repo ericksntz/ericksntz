@@ -8,7 +8,7 @@ Estudante integrado do curso técnico de Informática dentro do Instituto Federa
 💻Procuro colaborar na área de Programação Front-End.
 </div>
 
-<div align"center">
+<div>
 <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=ericksntz"/>
  </div>
   
