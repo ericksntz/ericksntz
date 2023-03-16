@@ -13,7 +13,7 @@
 <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksntz" />
  </div>
   
- ## TECNOLOGIAS
+ ## Tecnologias
  
   <div style="display: inline_block"> <br>
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -22,11 +22,12 @@
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   </div>
  
- ## REDES SOCIAIS (CONTATO)
+ ## Contato
  
  <div>
-  <a href="https://www.linkedin.com/in/erick-santos-brito/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/erick-santos-brito/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+   <a href="mailto:erickbrito@outlook.com.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
+   
   <div>
