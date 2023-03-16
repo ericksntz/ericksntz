@@ -3,14 +3,13 @@
 <div>
 Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo.
 
-👨‍💻Atualmente estou trabalhando como Aprendiz (Assistente Administrativo) na Empresa Brasileira de Correios e Telégrafos. <br>
+<br>👨‍💻Atualmente estou trabalhando como Aprendiz (Assistente Administrativo) na Empresa Brasileira de Correios e Telégrafos. <br>
 📚Atualmente estou aprendendo HTML, CSS, Python e C#. Porém tenho conhecimento em C, MySQL e conhecimento breve de Java. <br>
 💻Procuro colaborar na área de Programação Front-End.
 </div>
 
-<div>
-<img height:"18em" src="https://github-readme-stats.vercel.app/api?username=ericksntz"/>
-<img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksntz" />
+<div align"center">
+<img height:"180em" src="https://github-readme-stats.vercel.app/api?username=ericksntz"/>
  </div>
   
  ## Tecnologias
