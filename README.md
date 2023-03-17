@@ -32,7 +32,7 @@ Estou me dedicando a **Programação Front-End**, área na qual pretendo seguir.
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align: "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
+    <img align="right" height="128" width="128" src="assets/4E9C9F38-7CB2-42A3-8A20-FC7A31EDD91B.png" />
   </div>
  
  <h2> 👥 Contatos </h2>
