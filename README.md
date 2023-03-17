@@ -5,8 +5,8 @@
 <li>Trabalhando como Aprendiz (Assistente Administrativo) na Empresa Brasileira de Correios e Telégrafos. <br>
 <li>HTML | CSS | MySQL | Java | Python | C </h4>
  
-Estou me dedicando a Programação Front-End, área na qual pretendo seguir.<br>
-<br>📚Atualmente estou aprendendo: HTML | CSS | Python | C#.<br> 
+Estou me dedicando a **Programação Front-End**, área na qual pretendo seguir.<br>
+<br>📚Atualmente estou aprendendo: **HTML | CSS | Python | C#.**<br> 
 
 <div>
 <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=ericksntz"/>
