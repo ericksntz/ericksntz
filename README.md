@@ -19,7 +19,7 @@ Estou me dedicando a **Programação Front-End**, área na qual pretendo seguir.
  
 <div>
  
-<img height="240em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite" />
+<img height="240em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksntz&layout=compact&theme=graywhite" />
 
 </div>
  
