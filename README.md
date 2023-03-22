@@ -43,7 +43,5 @@ Estou me dedicando a **Programação Front-End**, área na qual pretendo seguir.
 
   </div>
 
-<div>
-  ![Snake animation](https://github.com/ericksntz/ericksntz/blob/output/github-contribution-grid-snake.svg)
-</div>
+ ![Snake animation](https://github.com/ericksntz/ericksntz/blob/output/github-contribution-grid-snake.svg)
 
