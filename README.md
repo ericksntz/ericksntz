@@ -13,7 +13,7 @@
 <div>
 
 Estou me dedicando a **Programação Front-End**, área na qual pretendo seguir.<br>
-<br>📚Atualmente estou aprendendo: **HTML | CSS | Python | C#.**<br> 
+<br>📚Atualmente estou aprendendo: **HTML | CSS | Python | C#. | JS**<br> 
 
 </div>
  
