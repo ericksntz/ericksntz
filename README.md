@@ -4,7 +4,7 @@
  📝 <strong>Informações</strong> 
 <h4>-Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo. <br>
 
-<br>-HTML | CSS | MySQL | Java | Python | C </h4>
+<br>-HTML | CSS | MySQL | Java | Python | C | JavaScript </h4>
 
 </div>
 
