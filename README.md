@@ -1,7 +1,7 @@
 <h1 align="left">Seja Muito Bem Vindo.</h1>
 
 <div>
-<img align="right" height="240" width="240" src="assets/4E9C9F38-7CB2-42A3-8A20-FC7A31EDD91B.png" />
+<img align="right" height="360" width="360" src="assets/24095BD4-71C1-4E1A-A199-84F96F2D0691.png" />
 📝 <strong>Informações</strong>
 <br>
 <h4>- Estudante integrado do curso técnico de Informática dentro do Instituto Federal de São Paulo. 
