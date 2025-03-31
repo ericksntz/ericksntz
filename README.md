@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">📚 Atualmente cursando Desenvolvimento de Software Multiplataforma - FATEC<br>👨🏼‍🎓 Técnico em Informática - IFSP<br>🚀 Apaixonado por tecnologia e desenvolvimento de sistemas<br>✨ Criando bugs desde 2021</p>
+<p align="left">📚 Atualmente cursando Desenvolvimento de Software Multiplataforma - FATEC<br>
+👨🏼‍🎓 Técnico em Informática - IFSP<br>
+🚀 Apaixonado por tecnologia e desenvolvimento de sistemas<br>
+🎮 Desenvolvedor do jogo <strong>Jornada da Esperança</strong><br>
+✨ Criando bugs desde 2021</p>
 
 ###
 
