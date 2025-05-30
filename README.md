@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente cursando Desenvolvimento de Software Multiplataforma - FATEC<br>
+<p align="left">📚 Atualmente cursando Ciência da Computação - Mackenzie<br>
 👨🏼‍🎓 Técnico em Informática - IFSP<br>
 🚀 Apaixonado por tecnologia e desenvolvimento de sistemas<br>
 🎮 Desenvolvedor do jogo <strong>Jornada da Esperança</strong><br>
